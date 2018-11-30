@@ -35,6 +35,14 @@ p{
   color: navy;
 }
 
+#scroll {
+  width: 100px; 
+  text-align: center;
+  margin: 0 auto;
+  font-size: 15px;
+  color: navy;
+}
+
 button{
   width: 350px;
   height: 100px;
